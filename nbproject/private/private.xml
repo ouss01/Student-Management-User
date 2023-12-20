@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/entities/User.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/utils/MyConnexion.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/gui/AjouterUserController.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/service/InterfaceUser.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/gui/NewPwdController.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/gui/WelcomeProfesseurController.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/gui/WelcomeController.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/studentmanagment/StudentManagement.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/gui/ForgotMdpController.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/service/EnvoyerEmail.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/service/UserCRUD.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/gui/WelcomeEtudiantController.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/service/crypterPassword.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/gui/AuthentificationController.java</file>
+            <file>file:/C:/Users/LENOVO/Desktop/projet/student/StudentManagment/src/tache_user/gui/GestionUserController.java</file>
+        </group>
+    </open-files>
+</project-private>
